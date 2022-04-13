@@ -1,0 +1,36 @@
+.header{
+    height: 50px;
+    background-color: rgb(108, 106, 106);
+    line-height: 50px;
+    text-align: right;
+    font-weight: bold;
+    color: white;
+}
+.footer{
+    height: 50px;
+    background-color: rgb(108, 106, 106);
+    line-height: 50px;
+    text-align: center;
+}
+.white{
+    color: white;
+}
+h2{
+    color: deepskyblue;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    font-size: larger;
+    
+}
+.tableau{
+    background-color: rgba(211, 211, 211, 0.562);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.underline{
+    text-decoration-line: underline;
+    color: white;
+}
